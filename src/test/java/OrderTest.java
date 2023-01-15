@@ -26,7 +26,6 @@ public class OrderTest {
     public void afterEach() {
         driver.quit();
         driver = null;
-
     }
 
     @Test
